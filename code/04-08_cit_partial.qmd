@@ -315,7 +315,11 @@ cit_grid_result = tune_sim_anneal(
   param_info = cit_param,
   iter = 50
 )
+<<<<<<< HEAD
 beepr::beep()
+=======
+
+>>>>>>> 42475ac17a6ee8092743f2a3e2e8d2c8800b40fb
 cit_grid_result$.metrics[[2]]
 ```
 Notice how we have a column for iterations.  
